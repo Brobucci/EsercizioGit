@@ -2,4 +2,4 @@ Prima riga
 Seconda riga
 Terza riga
 Modifiche per recursive branch
-Linea modificata da main.
+Versione CONFLICTBRANCH (B) della riga 3
